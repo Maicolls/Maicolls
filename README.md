@@ -3,7 +3,7 @@
 
 # ![Banner de Maicolls](Baner-Maicolls.png)
 
-## Aca podras encontrar distintos proyectos mios como estudiante de Anlasis y Desarollo de Software, desde los iniciales hasta los mas robustos que he podido realizar a lo largo de mi aprendizaje.
+## Acá podrás encontrar distintos proyectos míos como estudiante de Análisis y Desarrollo de Software, desde los iniciales hasta los más robustos que he podido realizar a lo largo de mi aprendizaje.
 
 ### Los leguajes, librerias que domino y estoy aprendiendo:
 <p align="left"> 
